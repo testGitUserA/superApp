@@ -1,6 +1,6 @@
-function testFunc () {
+function testFunc228 () {
     dsgdg
     retrun;
 }
 
-module.exports = testFunc;
+module.exports = testFunc228;
