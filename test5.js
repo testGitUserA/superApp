@@ -1,1 +1,6 @@
-console.log('5');
+function testFunc () {
+    dsgdg
+    retrun;
+}
+
+module.exports = testFunc;
